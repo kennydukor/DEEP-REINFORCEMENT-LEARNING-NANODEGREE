@@ -7,7 +7,7 @@
 #### Project Overview
 In this project, I trained an agent to navigate (and collect bananas!) in a large, square world.
 
-A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
+A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of the agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
 
@@ -15,7 +15,19 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - 1 - move backward.
 - 2 - turn left.
 - 3 - turn right.
-The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
+The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
 
-Evaluation
-Your project will be reviewed by a Udacity reviewer against the project rubric. Review this rubric thoroughly, and self-evaluate your project before submission. All criteria found in the rubric must meet specifications for you to pass.
+#### Result
+
+The agent reached an average score of +13 after 369 episodes in 9.8 minutes.
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/edit/master/Navigation%20Project/number_episodes.jpg">
+</p>
+
+#### Plot
+
+Score through the episodes
+<p align="center">
+  <img width="460" height="300" src="https://github.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/edit/master/Navigation%20Project/plot.jpg">
+</p>
