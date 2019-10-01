@@ -22,12 +22,12 @@ The task is episodic, and in order to solve the environment, the agent must get 
 The agent reached an average score of +13 after 369 episodes in 9.8 minutes.
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Navigation%20Project/number_episodes.jpg">
+  <img width="1092" height="239" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Navigation%20Project/number_episodes.jpg">
 </p>
 
 #### Plot
 
 Score through the episodes
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Navigation%20Project/plot.jpg">
+  <img width="399" height="401" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Navigation%20Project/plot.jpg">
 </p>
