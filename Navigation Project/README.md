@@ -1,6 +1,8 @@
 ## Project: Navigation 
 
-![banana project](https://video.udacity-data.com/topher/2018/June/5b1ab4b0_banana/banana.gif)
+<p align="center">
+  <img width="460" height="300" src="https://video.udacity-data.com/topher/2018/June/5b1ab4b0_banana/banana.gif">
+</p>
 
 #### Project Overview
 In this project, I trained an agent to navigate (and collect bananas!) in a large, square world.
