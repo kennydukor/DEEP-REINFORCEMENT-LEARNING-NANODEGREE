@@ -47,6 +47,9 @@ For this project, there was no need to install Unity - this is because Udacity b
 After you have followed the instructions above, open `Navigation.ipynb` (located in the `p1_navigation/` folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
 
 ### How to Train Agent
+Instructions
+Follow the instructions in `Navigation.ipynb` to get started with training your own agent!
+
 ### Result
 
 The agent reached an average score of +13 after 369 episodes in 9.8 minutes.
