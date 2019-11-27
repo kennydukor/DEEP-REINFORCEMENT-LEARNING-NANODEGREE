@@ -21,3 +21,13 @@ Below is the description of the actor and critic architecture
 - Hidden: (input, 400) - BatchNorm - ReLU
 - Hidden: (400 + action_size, 300) - ReLU
 - Output: (300, 1) - Linear
+
+### Hyper Parameters
+
+- replay buffer size = int(1e5)
+- minibatch size = 128
+- discount factor (gamma) = 0.99
+- for soft update of target parameters (tau) = 1e-3
+- learning rate of the actor = 1e-4
+- learning rate of the critic = 1e-4
+- L2 weight decay = 0
