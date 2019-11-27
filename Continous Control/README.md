@@ -85,7 +85,7 @@ The agent reached an average score of 34.10.
 The agents reached an average score of 30.05 after 97 episodes.
 
 <p align="center">
-  <img width="749.7" height="119" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Navigation%20Project/number_episodes.jpg">
+  <img width="749.7" height="119" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Continous%20Control/img/multi_agent.JPG">
 </p>
 
 ### Plot
