@@ -74,15 +74,21 @@ Follow the instructions in `Continuous_Control.ipynb` to get started with traini
 
 ### Result
 
-The agent reached an average score of +13 after 369 episodes in 9.8 minutes.
+#### One (1) Agent
+The agent reached an average score of 34.10.
 
 <p align="center">
-  <img width="1092" height="239" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Navigation%20Project/number_episodes.jpg">
+  <img width="382" height="41" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Continous%20Control/img/single_agent.JPG">
+</p>
+
+#### Twenty (20) Agents
+The agents reached an average score of 30.05 after 97 episodes.
+
+<p align="center">
+  <img width="441" height="70" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Navigation%20Project/number_episodes.jpg">
 </p>
 
 ### Plot
 
 Score through the episodes
-<p align="center">
-  <img width="399" height="401" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Navigation%20Project/plot.jpg">
-</p>
+
