@@ -10,14 +10,14 @@ In the algorithm we use the actor and critic (both deep neural networks) to trai
 Below is the description of the actor and critic architecture
 #### Actor
 
-Input_Layer - (state)
-Hidden_1: (input, 400) - BatchNorm - ReLU
-Hidden_2: (400, 300) - ReLU
-Output: (300, 4) - TanH
+- Input_Layer - (state)
+- Hidden_1: (input, 400) - BatchNorm - ReLU
+- Hidden_2: (400, 300) - ReLU
+- Output: (300, 4) - TanH
 
 #### Critic
 
-Input_Layer - (state)
-Hidden: (input, 400) - BatchNorm - ReLU
-Hidden: (400 + action_size, 300) - ReLU
-Output: (300, 1) - Linear
+- Input_Layer - (state)
+- Hidden: (input, 400) - BatchNorm - ReLU
+- Hidden: (400 + action_size, 300) - ReLU
+- Output: (300, 1) - Linear
