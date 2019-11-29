@@ -81,6 +81,10 @@ The agent reached an average score of 34.10.
   <img width="382" height="41" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Continous%20Control/img/single_agent.JPG">
 </p>
 
+<p align="center">
+  <img width="386" height="266" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Continous%20Control/img/single_plot.png">
+</p>
+
 #### Twenty (20) Agents
 The agents reached an average score of 30.05 after 97 episodes.
 
@@ -88,7 +92,18 @@ The agents reached an average score of 30.05 after 97 episodes.
   <img width="441" height="70" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Continous%20Control/img/multi_agent.JPG">
 </p>
 
-### Plot
+<p align="center">
+  <img width="386" height="266" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Continous%20Control/img/multi_plot.png">
+</p>
 
-Score through the episodes
 
+### Future works / Improvement
+
+In order to improve the model further, I intend implementing Prioritized Experience Replay to helps to improve the performance and significantly reduces the training time. [Sum Tree Implementation](https://github.com/rlcode/per)
+
+Also, I intend trying our other reinforcement algorithm for the same problem
+
+- [Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
+- [Trust Region Policy Optimization (TRPO) and Proximal Policy Optimization (PPO)](https://medium.com/@sanketgujar95/trust-region-policy-optimization-trpo-and-proximal-policy-optimization-ppo-e6e7075f39ed)
+
+- Proximal Policy Optimization algorithm. [github repository](https://github.com/Cozmo25/drlnd-continuous-control/tree/master/PPO)
