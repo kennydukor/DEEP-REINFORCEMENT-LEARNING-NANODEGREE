@@ -49,4 +49,5 @@ The agent reached an average score of 34.10.
 In order to improve the model further, I intend implementing Prioritised Experience Replay to helps to improve the performance and significantly reduces the training time. [Sum Tree Implementation](https://github.com/rlcode/per)
 
 Also, I intend using batch normalisation in the actor and critic networks
+
 [Link to original paper by DeepMinds](https://arxiv.org/pdf/1509.02971.pdf)
