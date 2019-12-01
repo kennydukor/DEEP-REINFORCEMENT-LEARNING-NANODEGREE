@@ -54,21 +54,12 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 
 ### Result
 
-#### One (1) Agent
 The agent reached an average score of 34.10.
 
 <p align="center">
-  <img width="382" height="41" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Continous%20Control/img/single_agent.JPG">
+  <img width="660" height="300" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Collaboration%20and%20Competition/img/episodes.png">
 </p>
-
-#### Twenty (20) Agents
-The agents reached an average score of 30.05 after 97 episodes.
-
 <p align="center">
-  <img width="441" height="70" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Continous%20Control/img/multi_agent.JPG">
+  <img width="386" height="266" src="https://raw.githubusercontent.com/kennydukor/DEEP-REINFORCEMENT-LEARNING-NANODEGREE/master/Collaboration%20and%20Competition/img/collaboration_result.png">
 </p>
-
-### Plot
-
-Score through the episodes
 
